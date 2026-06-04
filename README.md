@@ -182,7 +182,7 @@ The project strengthened practical knowledge in firmware development, communicat
 
 ## Author
 
-Shaik
+Shaik Rizwan Basha
 
 Embedded Systems | Firmware Development | IoT
 
